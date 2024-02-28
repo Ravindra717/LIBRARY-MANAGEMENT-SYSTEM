@@ -1,4 +1,5 @@
-![Screenshot 2024-02-28 163918](https://github.com/Ravindra717/LIBRARY-MANAGEMENT-SYSTEM/assets/121402224/0112b608-eb31-422c-8c2d-bb800fb851ab)![Screenshot 2024-02-28 163918](https://github.com/Ravindra717/LIBRARY-MANAGEMENT-SYSTEM/assets/121402224/64103df5-96c2-4964-9de2-6c18f579a4f8)# LIBRARY-MANAGEMENT-SYSTEM
+[Screenshot 2024-02-28 163918](https://github.com/Ravindra717/LIBRARY-MANAGEMENT-SYSTEM/assets/121402224/64103df5-96c2-4964-9de2-6c18f579a4f8)
+# LIBRARY-MANAGEMENT-SYSTEM
 This project is a Library Management System that allows users to perform various operations related to a library, such as:
 
 1.Borrowing and returning books: Users can check the availability of books, borrow them, and return them using the system.
