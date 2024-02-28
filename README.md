@@ -1,4 +1,5 @@
-[Screenshot 2024-02-28 163918](https://github.com/Ravindra717/LIBRARY-MANAGEMENT-SYSTEM/assets/121402224/64103df5-96c2-4964-9de2-6c18f579a4f8)
+![Screenshot 2024-02-28 163918](https://github.com/Ravindra717/LIBRARY-MANAGEMENT-SYSTEM/assets/121402224/f70b39fc-6bea-4880-8f11-703e3db40543)
+
 # LIBRARY-MANAGEMENT-SYSTEM
 This project is a Library Management System that allows users to perform various operations related to a library, such as:
 
